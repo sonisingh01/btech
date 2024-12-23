@@ -1,2 +1,3 @@
 # btech
-this is a new file author soni 
+this is a new file 
+author soni 
